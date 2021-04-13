@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1618186847 source:c:\users\nahiara\desktop\calculadoratp\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1618187063 c:\users\nahiara\desktop\calculadoratp\operaciones.h
+
+1618188937 source:c:\users\nahiara\desktop\calculadoratp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1618255083 source:c:\users\chris\downloads\tp_laboratorio_1-main\calculadoratp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1618254498 c:\users\chris\downloads\tp_laboratorio_1-main\calculadoratp\operaciones.h
+
+1618255083 source:c:\users\chris\downloads\tp_laboratorio_1-main\calculadoratp\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
